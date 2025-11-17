@@ -64,6 +64,8 @@ To ensure the quality and reliability of Pulse, we use a combination of unit tes
 2. **Run tests**: Execute the tests using `npm run test` or `yarn test`
 3. **Code coverage**: Generate a code coverage report using `npm run test:coverage` or `yarn test:coverage`
 
+## 🚀 Deployed Link  
+[👉 Visit Pulse AI](https://mindpulseai.netlify.app/)
 
 📦 API Reference
 =================
